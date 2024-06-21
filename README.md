@@ -8,7 +8,7 @@ Cyberbullying on Twitter involves using tweets to harass, threaten, or demean in
 This form of digital harassment can quickly reach a wide audience due to the platform's public and rapid nature. 
 Common tactics include insults, spreading rumors, defamatory content, and inciting others to participate in the harassment. 
 The consequences for victims are severe, often leading to emotional distress, anxiety, depression, and even suicidal thoughts.
-# Cyber-Bully-Tweet-Classifier report overview
+# Cyber-Bully-Tweet-Classifier Report overview
 ## Introduction
 - Overview of cyberbullying and its impact
 - Importance of detecting and preventing cyberbullying
